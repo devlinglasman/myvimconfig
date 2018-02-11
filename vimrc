@@ -29,3 +29,5 @@ call plug#begin()
         Plug 'valloric/youcompleteme'
 
 call plug#end()
+
+map <leader>q :NERDTreeToggle<CR>
